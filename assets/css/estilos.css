@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: rgb(194, 236, 7);
+}
+div {
+  background-color: blue;
+  color: yellow;
+}
+div {
+  background-color: brown;
+  color: aqua;
+}
+div {
+  background-color: blueviolet;
+  color: chartreuse;
+}
